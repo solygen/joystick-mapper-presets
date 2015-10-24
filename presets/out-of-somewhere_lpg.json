@@ -3,7 +3,7 @@
 	"tag": "Logitech Precision Gamepad",
 	"joysticks": [
 		{
-			"tag": "Write here a tag to identify anything you want",
+			"tag": "Logitech Precision Gamepad",
 			"binds": {
 				"axi 1 -": [
 					"key 82"

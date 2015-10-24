@@ -1,9 +1,9 @@
 {
-	"name": "Master",
+	"name": "Vertical Drop Heros",
 	"tag": "Logitech Precision Gamepad",
 	"joysticks": [
 		{
-			"tag": "Write here a tag to identify anything you want",
+			"tag": "Logitech Precision Gamepad",
 			"binds": {
 				"axi 1 -": [
 					"key 82"
@@ -21,28 +21,13 @@
 					"key 4"
 				],
 				"btn 1": [
-					"key 4"
+					"key 82"
 				],
 				"btn 2": [
-					"key 4"
+					"key 6"
 				],
 				"btn 3": [
-					"key 4"
-				],
-				"btn 4": [
-					"key 4"
-				],
-				"btn 5": [
-					"key 4"
-				],
-				"btn 6": [
-					"key 4"
-				],
-				"btn 7": [
-					"key 4"
-				],
-				"btn 8": [
-					"key 41"
+					"key 5"
 				],
 				"btn 9": [
 					"key 44"
