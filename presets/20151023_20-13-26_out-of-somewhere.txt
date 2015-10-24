@@ -1,0 +1,32 @@
+{
+	"name": "Out of somewhere",
+	"tag": "Logitech Precision Gamepad",
+	"joysticks": [
+		{
+			"tag": "Write here a tag to identify anything you want",
+			"binds": {
+				"axi 1 -": [
+					"key 82"
+				],
+				"axi 0 +": [
+					"key 79"
+				],
+				"axi 1 +": [
+					"key 81"
+				],
+				"axi 0 -": [
+					"key 80"
+				],
+				"btn 0": [
+					"key 26"
+				],
+				"btn 1": [
+					"key 8"
+				],
+				"btn 2": [
+					"key 20"
+				]
+			}
+		}
+	]
+}
