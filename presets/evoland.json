@@ -1,0 +1,29 @@
+{
+	"name": "Evoland",
+	"tag": "Logitech Precision Gamepad",
+	"joysticks": [
+		{
+			"tag": "Logitech Precision Gamepad",
+			"binds": {
+				"axi 1 -": [
+					"key 82"
+				],
+				"axi 0 +": [
+					"key 79"
+				],
+				"axi 1 +": [
+					"key 81"
+				],
+				"axi 0 -": [
+					"key 80"
+				],
+				"btn 1": [
+					"key 44"
+				],
+				"btn 3": [
+					"key 12"
+				]
+			}
+		}
+	]
+}
