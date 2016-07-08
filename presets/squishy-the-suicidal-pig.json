@@ -1,0 +1,35 @@
+{
+	"name": "Squishy the Suicidal Pig",
+	"tag": "Logitech Precision Gamepad",
+	"joysticks": [
+		{
+			"tag": "Logitech Precision Gamepad",
+			"binds": {
+				"axi 1 -": [
+					"key 26"
+				],
+				"axi 0 +": [
+					"key 7"
+				],
+				"axi 1 +": [
+					"key 22"
+				],
+				"axi 0 -": [
+					"key 4"
+				],
+				"btn 0": [
+					"key 40"
+				],
+				"btn 1": [
+					"key 82"
+				],
+				"btn 9": [
+					"key 40"
+				],
+				"btn 8": [
+					"key 41"
+				]
+			}
+		}
+	]
+}

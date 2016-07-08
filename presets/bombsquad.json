@@ -1,0 +1,41 @@
+{
+	"name": "BombSquad",
+	"tag": "Logitech Precision Gamepad",
+	"joysticks": [
+		{
+			"tag": "Logitech Precision Gamepad",
+			"binds": {
+				"axi 1 -": [
+					"key 26"
+				],
+				"axi 0 +": [
+					"key 7"
+				],
+				"axi 1 +": [
+					"key 22"
+				],
+				"axi 0 -": [
+					"key 4"
+				],
+				"btn 0": [
+					"key 13"
+				],
+				"btn 1": [
+					"key 14"
+				],
+				"btn 2": [
+					"key 12"
+				],
+				"btn 3": [
+					"key 18"
+				],
+				"btn 8": [
+					"key 41"
+				],
+				"btn 9": [
+					"key 44"
+				]
+			}
+		}
+	]
+}
