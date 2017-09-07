@@ -1,0 +1,53 @@
+{
+	"name": "Skullgirls",
+	"tag": "Logitech Precision Gamepad",
+	"joysticks": [
+		{
+			"tag": "Logitech Precision Gamepad",
+			"binds": {
+				"axi 1 -": [
+					"key 82"
+				],
+				"axi 0 +": [
+					"key 79"
+				],
+				"axi 1 +": [
+					"key 81"
+				],
+				"axi 0 -": [
+					"key 80"
+				],
+				"btn 0": [
+					"key 4"
+				],
+				"btn 1": [
+					"key 5"
+				],
+				"btn 2": [
+					"key 6"
+				],
+				"btn 3": [
+					"key 7"
+				],
+				"btn 4": [
+					"key 8"
+				],
+				"btn 5": [
+					"key 9"
+				],
+				"btn 6": [
+					"key 10"
+				],
+				"btn 7": [
+					"key 11"
+				],
+				"btn 8": [
+					"key 41"
+				],
+				"btn 9": [
+					"key 44"
+				]
+			}
+		}
+	]
+}

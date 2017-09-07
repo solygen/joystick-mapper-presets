@@ -1,0 +1,47 @@
+{
+	"name": "csl gamepad ps3: OpenEmu",
+	"tag": "No tag",
+	"joysticks": [
+		{
+			"tag": "csl gamepad ps3",
+			"binds": {
+				"hat 0 R": [
+					"key 79"
+				],
+				"hat 0 L": [
+					"key 80"
+				],
+				"hat 0 D": [
+					"key 81"
+				],
+				"hat 0 U": [
+					"key 82"
+				],
+				"btn 9": [
+					"key 44"
+				],
+				"btn 8": [
+					"key 41"
+				],
+				"btn 2": [
+					"key 5"
+				],
+				"btn 1": [
+					"key 4"
+				],
+				"btn 0": [
+					"key 27"
+				],
+				"btn 3": [
+					"key 28"
+				],
+				"btn 4": [
+					"key 15"
+				],
+				"btn 5": [
+					"key 21"
+				]
+			}
+		}
+	]
+}
